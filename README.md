@@ -42,7 +42,20 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+ ### DATASET
+![head](https://github.com/BALA291/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120717501/7cfb5638-2b89-4f54-b6a0-caf463f8e134)
+
+### INFO
+![info](https://github.com/BALA291/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120717501/9188ec73-9085-4597-a24a-d4776efeb09d)
+
+### LABEL ENCODING FOR STRING VALUES
+![label](https://github.com/BALA291/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120717501/19fb9ce4-d585-44f7-9282-7a356a7e640c)
+
+### ACCURACY
+![accuracy](https://github.com/BALA291/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120717501/1a387815-1a5b-4f98-ada5-5102e53d090a)
+
+### PREDICTION
+![prediction](https://github.com/BALA291/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120717501/7d308a3f-5dc2-4f86-872c-8ac634345cf2)
 
 
 ## Result:
