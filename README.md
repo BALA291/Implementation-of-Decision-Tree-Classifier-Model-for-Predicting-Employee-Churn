@@ -1,6 +1,6 @@
 # EX-06 Implementation of Decision Tree Classifier Model for Predicting Employee Churn
 ### AIM:
-To write a program to implement the Decision Tree Classifier &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :** <br>
+To write a program to implement the Decision Tree Classifier 
 Model for Predicting Employee Churn.
 ### Equipments Required:
 1. Hardware – PCs
